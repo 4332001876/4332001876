@@ -7,8 +7,17 @@ I am currently an undergraduate student at the School of Computer Science and Te
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=4332001876&column=7)](https://github.com/4332001876)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=4332001876&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=4332001876&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" /> |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<!--<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=4332001876&show_icons=true&count_private=true&theme=transparent&rank_icon=github" height=200 />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4332001876&layout=donut&theme=transparent&hide=javascript" height=200 />
+</p>-->
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=4332001876&show_icons=true&hide_border=true" />
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=4332001876&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF" />
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=4332001876&color=brightgreen)
 
