@@ -5,7 +5,7 @@ I am currently an undergraduate student at the School of Computer Science and Te
 ## My Stats  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=4332001876&column=5)](https://github.com/4332001876)
+[![trophy](https://github-profile-trophy.vercel.app/?username=4332001876&column=9)](https://github.com/4332001876)
 
 
 <!--<p align="center">
