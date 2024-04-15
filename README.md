@@ -5,7 +5,7 @@ I am currently an undergraduate student at the School of Computer Science and Te
 ## My Stats  
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=4332001876&column=7)](https://github.com/4332001876)
+[![trophy](https://github-profile-trophy.vercel.app/?username=4332001876&column=5)](https://github.com/4332001876)
 
 
 <!--<p align="center">
@@ -13,10 +13,16 @@ I am currently an undergraduate student at the School of Computer Science and Te
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4332001876&layout=donut&theme=transparent&hide=javascript" height=200 />
 </p>-->
 
-<p align="center">
+<!--<p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=4332001876&show_icons=true&hide_border=true"  height=150/>
  <img src="https://github-readme-streak-stats.herokuapp.com?user=4332001876&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF"  height=150/>
-</p>
+</p>-->
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=4332001876&show_icons=true&hide_border=true"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=4332001876&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=7EDDCF&fire=7EDDCF"/></td>
+  </tr>
+</table>
 
 
 ![](https://komarev.com/ghpvc/?username=4332001876&color=brightgreen)
